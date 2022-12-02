@@ -1,0 +1,1 @@
+This folder is going to contain files of python that i'm going to be working on for my learining statge.
